@@ -1,0 +1,28 @@
+Primary Operations of a Computer: "IPOS"
+-Input
+-Process
+-Output
+-Storage
+
+Components of a Computer:
+1. Software
+2. Hardware
+
+Types of Software:
+1. Application Software: Used by user.
+2. System Software: Helps the computer run application software.
+
+Components of Application Software:
+1. Operating System
+2. Utilities
+3. Drivers
+4. Translators
+
+Network = Two or more computers connected together. 
+The largest network in the world = "internet"
+Networks allow us to share information, physical resources.
+We access the internet through 'ISP's - Internet Service Providers.
+URL = Uniform Resource Locator.
+
+Every webpage has some IP (Internet Protocol) address. Often a series of numbers such as 231.42.52
+So if you google "github.com", it is essentially the Domain name of that website. 
