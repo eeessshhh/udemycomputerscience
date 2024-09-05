@@ -26,3 +26,11 @@ URL = Uniform Resource Locator.
 
 Every webpage has some IP (Internet Protocol) address. Often a series of numbers such as 231.42.52
 So if you google "github.com", it is essentially the Domain name of that website. 
+
+During emailing, the bcc means blind carbon copy, meaning whoever you include in the bcc is hidden from whoever is actually receiving the email, or is in the cc (carbon copy). 
+
+If you have n light bulbs, you can store 2^n units of information.
+So 1 light bulb, then two signals (on and off)
+2 light bulbs, then four signals(ON-ON, ON-OFF, OFF-ON, OFF-OFF)
+It exponentially increases.
+
