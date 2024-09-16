@@ -4,3 +4,18 @@ Software = Instructions that tell the computer what to do.
 
 Hardware can be classified on the basis of whether it is an Input, Processing, Output or Storage device.
 Software can be classified on the basis of System software (OS, Utilities, Drivers) and Application software.
+
+Buses allow data to be transferred from one point to another via some electrical wiring. For example USB cable stands for Universal Serial Bus.
+
+Storage drives:
+HDD = Hard Disk Drive
+SSD = Solid state Drive (more durable and faster than HDD, no moving parts inside it)
+
+Optical drives:
+CD
+DVD
+bluray
+
+Ports are spots on the computer where you can plug in something. 
+For example: USB port, audio port, memory card port, ethernet, monitor.
+
